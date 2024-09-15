@@ -1,4 +1,4 @@
-# meuappfinal
+# APLICATIVO FLUTTER FERIADOS E CURSOS
 
 A new Flutter project.
 
