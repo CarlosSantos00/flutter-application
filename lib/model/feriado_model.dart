@@ -15,7 +15,7 @@ class FeriadoModel {
 
 String get formattedDate {
   DateTime dateTime = DateTime.parse(date);
-  final DateFormat formatter = DateFormat('dd/MM/yyyy'); //formatar data
+  final DateFormat formatter = DateFormat('dd/MM/yyyy'); //formatar a data para pt-br
   return formatter.format(dateTime);
 }
 
